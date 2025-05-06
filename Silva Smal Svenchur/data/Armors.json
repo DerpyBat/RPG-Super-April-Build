@@ -298,6 +298,6 @@ null,
 {"id":296,"atypeId":9,"description":"A coil you can pull out for a double speed increase. \n(You earn it as a magic move)","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0},{"code":43,"dataId":700,"value":1}],"iconIndex":290,"name":"Speed Coil","note":"","params":[0,0,0,10,0,0,10,0],"price":250},
 {"id":297,"atypeId":7,"description":"A white cloak that doesn't blend in but feels very, \nvery nice!","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0.05}],"iconIndex":138,"name":"Wyvern Cloak","note":"","params":[0,0,15,44,0,0,11,0],"price":400},
 {"id":298,"atypeId":17,"description":"It's like a shell so it's not very cloak like but who \ngives a flying flipper.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0.1}],"iconIndex":138,"name":"Buggy Cloak","note":"","params":[0,0,22,43,0,33,15,0],"price":800},
-{"id":299,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":299,"atypeId":10,"description":"Doubles item drops, but makes the equipped into an \nautomated fool.","etypeId":5,"traits":[{"code":64,"dataId":5,"value":1},{"code":62,"dataId":0,"value":1}],"iconIndex":188,"name":"The FOOL","note":"","params":[0,0,0,0,0,0,0,0],"price":199},
 {"id":300,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0}
 ]
